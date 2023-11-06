@@ -65,5 +65,5 @@ This project is enchanted under the MIT License - see the [LICENSE](LICENSE) spe
 
 ## Sorcerer 🔮
 
-- Your Name 🧙
-- GitHub: [yourusername](https://github.com/Subhamm18) 🌐
+- Subham Pradhan🧙
+- GitHub: [Subhamm18](https://github.com/Subhamm18) 🌐
